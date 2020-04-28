@@ -1,12 +1,12 @@
 {
-  "nodeUrl": "https://testnode1.wavesnodes.com",
+  "nodeUrl": "",
   "apiKey": "",
   "neutrinoContract": "",
   "rpdContract": "",
-  "payoutInterval": 1440,
+  "payoutInterval": 0,
   "sender": "",
   "sleepSec": 60,
   "assetId": "",
   "defaultLastPaymentHeight": 0,
-  "stakingCalculatorUrl": "http://94.237.95.65:8006"
+  "stakingCalculatorUrl": ""
 }
